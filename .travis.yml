@@ -1,5 +1,0 @@
-language: objective-c
-xcode_project: TravisCIDemo.xcodeproj
-xcode_scheme: TravisCIDemoTests
-osx_image: xcode9.1
-xcode_sdk: iphonesimulator11.1
